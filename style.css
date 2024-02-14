@@ -3,6 +3,7 @@
 {
     --bleu-longhorn: #0055e5;
     --gris-longhorn: #f0f0e8;
+    --msn-bulle-connecte: #63b93f;
 
     --padding-interne: 15px
 }
@@ -26,6 +27,8 @@ body
 
     margin-left: 10%;
     margin-right: 10%;
+    margin-top: 50px;
+    margin-bottom: 50px;
 
     padding-left: 0px;
     padding-right: 0px;
@@ -53,6 +56,41 @@ body
 
 .fenetre main
 {
+    display: flex;
+    flex-direction: row;
+
     padding-left: var(--padding-interne);
     padding-right: var(--padding-interne);
+}
+
+.fenetre main .bandeau-gauche
+{
+    width: 25%;
+
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.fenetre main .bandeau-gauche img
+{
+    width: 100%;
+
+    border-radius: 25%;
+    border-width: 3px;
+    border-style: solid;
+    border-color: var(--msn-bulle-connecte);
+
+    filter: drop-shadow(0 0 8px var(--msn-bulle-connecte));
+}
+
+.fenetre main .milieu
+{
+    width: 75%;
 }
