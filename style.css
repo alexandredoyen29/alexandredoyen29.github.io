@@ -1,0 +1,23 @@
+/* Définition des couleurs */
+*
+{
+    --bleu-longhorn: #0055e5;
+}
+
+body
+{
+    background-image: url(resources/wallpaper.jpg);
+}
+
+h1
+{
+    background-color: var(--bleu-longhorn);
+
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+
+    margin-left: 15%;
+    margin-right: 15%;
+
+    text-align: center;
+}
