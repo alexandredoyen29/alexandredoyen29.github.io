@@ -9,9 +9,17 @@ body
     background-image: url(resources/wallpaper.jpg);
 }
 
-h1
+.barre-de-titre
 {
     background-color: var(--bleu-longhorn);
+
+    color: white;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+    height: 50px;
 
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
@@ -19,5 +27,11 @@ h1
     margin-left: 15%;
     margin-right: 15%;
 
-    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.barre-de-titre img
+{
+    height: 100%;
 }
