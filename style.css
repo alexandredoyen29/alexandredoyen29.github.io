@@ -2,6 +2,9 @@
 *
 {
     --bleu-longhorn: #0055e5;
+    --gris-longhorn: #f0f0e8;
+
+    --padding-interne: 15px
 }
 
 body
@@ -9,7 +12,26 @@ body
     background-image: url(resources/wallpaper.jpg);
 }
 
-.barre-de-titre
+.fenetre
+{
+    border-color: var(--bleu-longhorn);
+    border-style: solid;
+    border-width: 5px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    
+    background-color: var(--gris-longhorn);
+
+    margin-left: 10%;
+    margin-right: 10%;
+
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.fenetre header
 {
     background-color: var(--bleu-longhorn);
 
@@ -21,17 +43,16 @@ body
 
     height: 50px;
 
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
-
-    margin-left: 15%;
-    margin-right: 15%;
-
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-right: var(--padding-interne);
 }
 
-.barre-de-titre img
+.fenetre header img
 {
     height: 100%;
+}
+
+.fenetre main
+{
+    padding-left: var(--padding-interne);
+    padding-right: var(--padding-interne);
 }
