@@ -4,8 +4,11 @@
     --bleu-longhorn: #0055e5;
     --gris-longhorn: #f0f0e8;
     --msn-bulle-connecte: #63b93f;
+    --msn-bille-connecte-2: #7db9d4;
 
-    --padding-interne: 15px
+    --padding-interne: 15px;
+    --rayon-de-bordure-interne-photo-de-profil: 15px;
+    --rayon-de-bordure-externe-photo-de-profil: 30px;
 }
 
 body
@@ -78,19 +81,40 @@ body
     padding-bottom: 5px;
 }
 
-.fenetre main .bandeau-gauche img
+.fenetre main .bandeau-gauche .photo-de-profil
+{
+    background-image: linear-gradient(to top, var(--msn-bulle-connecte), var(--msn-bille-connecte-2));
+
+    border-top-left-radius: var(--rayon-de-bordure-externe-photo-de-profil);
+    border-top-right-radius: var(--rayon-de-bordure-externe-photo-de-profil);
+    border-bottom-left-radius: var(--rayon-de-bordure-externe-photo-de-profil);
+    border-bottom-right-radius: var(--rayon-de-bordure-externe-photo-de-profil);
+}
+
+.fenetre main .bandeau-gauche .photo-de-profil img
 {
     width: 100%;
 
-    border-radius: 25%;
-    border-width: 3px;
-    border-style: solid;
-    border-color: var(--msn-bulle-connecte);
+    display: block;
+    scale: 97%;
 
-    filter: drop-shadow(0 0 8px var(--msn-bulle-connecte));
+    border-top-left-radius: var(--rayon-de-bordure-interne-photo-de-profil);
+    border-top-right-radius: var(--rayon-de-bordure-interne-photo-de-profil);
+    border-bottom-left-radius: var(--rayon-de-bordure-interne-photo-de-profil);
+    border-bottom-right-radius: var(--rayon-de-bordure-interne-photo-de-profil);
 }
 
 .fenetre main .milieu
 {
     width: 75%;
+
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
