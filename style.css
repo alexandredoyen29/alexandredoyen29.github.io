@@ -1,8 +1,14 @@
 /* Définition des couleurs */
 *
 {
-    --bleu-longhorn: #0055e5;
-    --gris-longhorn: #f0f0e8;
+    --fond: #008081;
+    --fond-fenetre: #d4d0c8;
+    --bouton: #d4d0c8;
+    --texte-bouton: #000000;
+    --ombre-bouton: #808080;
+    --ombre-sombre-bouton: #404040;
+    --lumiere-bouton: #ffffff;
+    --surlignement-bouton: #ffffff;
     --msn-bulle-connecte: #63b93f;
     --msn-bille-connecte-2: #7db9d4;
 
@@ -13,7 +19,7 @@
 
 body
 {
-    background-image: url(resources/wallpaper.jpg);
+    background-color: var(--fond);
 
     width: 100%;
     height: 100%;
@@ -23,7 +29,7 @@ body
 {
     box-shadow:inset -1px -1px 0px 0px #404040, inset 1px 1px 0px 0px #eceae7, inset -2px -2px 0px 0px #808080, inset 2px 2px 0px 0px #ffffff;
 
-    background-color: var(--gris-longhorn);
+    background-color: var(--fond-fenetre);
 
     margin-left: 10%;
     margin-right: 10%;
@@ -72,15 +78,28 @@ body
     display: flex;
     flex-direction: row;
 
+    align-items: center;
+
     margin-left: auto;
+    
+    padding-right: 2px;
 
     height: 100%;
 }
 
 .fenetre header .boutons *
 {
-    height: 100%;
-    width: auto;
+    background-color: var(--bouton);
+    color: var(--text-boutons);
+
+    box-shadow: -0.5px -0.5px 0px 0.5px var(--lumiere-bouton), 0px 0px 0px 1px var(--ombre-bouton), -0.5px -0.5px 0px 1.5px var(--lumiere-bouton), 0px 0px 0px 2px var(--ombre-sombre-bouton);
+
+    height: calc(100% - 15px);
+
+    margin-left: 2px;
+    margin-right: 2px;
+    margin-top: 2px;
+    margin-bottom: 2px;
 }
 
 .fenetre header .boutons * svg
