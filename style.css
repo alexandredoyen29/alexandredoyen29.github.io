@@ -81,10 +81,8 @@ body
     align-items: center;
 
     margin-left: auto;
-    
-    padding-right: 2px;
 
-    height: 100%;
+    padding-right: 5px;
 }
 
 .fenetre header .boutons *
@@ -93,13 +91,6 @@ body
     color: var(--text-boutons);
 
     box-shadow: -0.5px -0.5px 0px 0.5px var(--lumiere-bouton), 0px 0px 0px 1px var(--ombre-bouton), -0.5px -0.5px 0px 1.5px var(--lumiere-bouton), 0px 0px 0px 2px var(--ombre-sombre-bouton);
-
-    height: calc(100% - 15px);
-
-    margin-left: 2px;
-    margin-right: 2px;
-    margin-top: 2px;
-    margin-bottom: 2px;
 }
 
 .fenetre header .boutons * svg
