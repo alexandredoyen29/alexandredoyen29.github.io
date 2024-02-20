@@ -21,18 +21,7 @@ body
 
 .fenetre
 {
-    /*border-color: var(--bleu-longhorn);
-    border-style: solid;
-    border-width: 5px;
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
-    border-bottom-left-radius: 15px;
-    border-bottom-right-radius: 15px;*/
-
-    /* TODO : A améliorer */
-    padding:2px !important;
-    box-shadow:inset -1px -1px 0px 0px #404040, inset 1px 1px 0px 0px #eceae7, inset -2px -2px 0px 0px #808080, inset 2px 2px 0px 0px #ffffff !important;
-    /* Fin */
+    box-shadow:inset -1px -1px 0px 0px #404040, inset 1px 1px 0px 0px #eceae7, inset -2px -2px 0px 0px #808080, inset 2px 2px 0px 0px #ffffff;
 
     background-color: var(--gris-longhorn);
 
@@ -41,19 +30,20 @@ body
     margin-top: 50px;
     margin-bottom: 50px;
 
-    padding-left: 0px;
-    padding-right: 0px;
+    padding-left: 2px;
+    padding-right: 2px;
+    padding-top: 2px;
+    padding-bottom: 2px;
 }
 
 .fenetre header
 {
-    /*background-color: var(--bleu-longhorn);*/
-
-    /* TODO : A améliorer */
-    background:#0a246a !important;
-    background:-moz-linear-gradient(left, #0a246a 0%, #a6caf0 100%, #a6caf0 101%) !important;background:-webkit-linear-gradient(left, #0a246a 0%, #a6caf0 100%, #a6caf0 101%) !important;
-    background:linear-gradient(to right, #0a246a 0%, #a6caf0 100%, #a6caf0 101%) !important;filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='@ActiveTitle', endColorstr='@GradientActiveTitle', GradientType=1) !important;
-    vertical-align:middle !important;border:1px solid #d4d0c8 !important;
+    /* Dégradé de la barre de titre */
+    background: #0a246a;
+    background: -moz-linear-gradient(left, #0a246a 0%, #a6caf0 100%, #a6caf0 101%);
+    background: -webkit-linear-gradient(left, #0a246a 0%, #a6caf0 100%, #a6caf0 101%);
+    background: linear-gradient(to right, #0a246a 0%, #a6caf0 100%, #a6caf0 101%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='@ActiveTitle', endColorstr='@GradientActiveTitle', GradientType=1);
     /* Fin */
 
     color: white;
@@ -62,9 +52,7 @@ body
     flex-direction: row;
     align-items: center;
 
-    height: 50px;
-
-    padding-right: var(--padding-interne);
+    height: 30px;
 }
 
 .fenetre header img
@@ -74,11 +62,9 @@ body
 
 .fenetre header h1
 {
-    /* TODO : A améliorer */
     color: #ffffff;
-    /*font-size: 13px;*/
-    font:normal bold small Tahoma,Geneva,sans-serif;
-    /* Fin*/
+    
+    font: normal bold small Tahoma, Geneva, sans-serif;
 }
 
 .fenetre header .boutons
@@ -110,9 +96,7 @@ body
     display: flex;
     flex-direction: row;
 
-    /* TODO : A améliorer */
-    font-family: Tahoma,Geneva,sans-serif;
-    /* Fin */
+    font-family: Tahoma, Geneva, sans-serif;
 
     padding-left: var(--padding-interne);
     padding-right: var(--padding-interne);
