@@ -5,35 +5,36 @@
         <meta lang="fr-FR" />
         <meta name="author" content="Alexandre DOYEN" />
         <link rel="icon" type="image/png" href="resources/favicon.png" />
-        <link rel="stylesheet" type="text/css" href="./style.css" />
+        <link rel="stylesheet" type="text/css" href="./styles/winclassic.css" />
+        <link rel="stylesheet" type="text/css" href="./styles/windows-themes/theme-template.css" />
+        <link rel="stylesheet" type="text/css" href="./styles/windows-themes/windows-classic.css" />
+        <!--<link rel="stylesheet" type="text/css" href="./styles/style.css" />-->
         <title>Page personnelle d'Alexandre DOYEN</title>
     </head>
-    <body>
-        <div class="fenetre">
-            <header>
-                <img src="resources/favicon.png" />
-                <h1>Page personnelle d'Alexandre DOYEN</h1>
-                <div class="boutons">
-                    <div class="bouton_gauche">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="0.125017in" height="0.104181in" viewBox="0 0 12 10">
-                            <path fill="black" stroke="black" stroke-width="0" d="M 2.00,7.00 C 2.00,7.00 8.00,7.00 8.00,7.00 8.00,7.00 8.00,9.00 8.00,9.00 8.00,9.00 2.00,9.00 2.00,9.00 2.00,9.00 2.00,7.00 2.00,7.00 Z" />
-                        </svg>
-                    </div>
-                    <div class="bouton_milieu">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="0.125017in" height="0.104181in" viewBox="0 0 12 10">
-                            <path fill="black" stroke="black" stroke-width="0" d="M 2.00,2.00 C 2.00,2.00 9.00,2.00 9.00,2.00 9.00,2.00 9.00,8.00 9.00,8.00 9.00,8.00 2.00,8.00 2.00,8.00 2.00,8.00 2.00,2.00 2.00,2.00 Z M 1.00,0.00 C 1.00,0.00 1.00,9.00 1.00,9.00 1.00,9.00 10.00,9.00 10.00,9.00 10.00,9.00 10.00,0.00 10.00,0.00 10.00,0.00 1.00,0.00 1.00,0.00 Z" />
-                        </svg>
-                    </div>
-                    <div class="bouton_droit">
-                        <svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" width="12" height="10">
-                            <g transform="translate(0,-1042.3622)">
-                                <path d="m 2.0025485,1043.3853 2.0198115,0 0,1.0185 0.984011,0 0,0.984 1.985286,0 0,-0.984 1.001274,0 0,-1.0185 2.002548,0 0,1.0013 0,0 0,0 -1.001274,0 0,1.0012 -1.001274,0 0,0.9841 -1.001274,0 0,1.0012 1.001274,0 0,1.0013 1.001274,0 0,1.0013 1.001274,0 0,1.0013 -2.002548,0 0,-1.0013 -1.001274,0 0,-0.984 -1.985286,0 0,0.984 -1.001274,0 0,1.0013 -2.0025485,0 0,-1.0013 1.0012745,0 0,-1.0013 1.001274,0 0,-1.0013 1.001274,0 0,-1.0012 -1.001274,0 0,-0.9841 -1.001274,0 0,-1.0012 -1.0012745,0 0,-1.0186 z" fill="black" stroke-width="0" />
-                            </g>
-                        </svg>
-                    </div>
+    <body class="desktop">
+        <div class="window active">
+            <header class="titlebar">
+                <div class="titlebar-title">
+                    <!--<img src="resources/favicon.png" />-->
+                    <h1>Page personnelle d'Alexandre DOYEN</h1>
+                </div>
+                <div class="titlebar-wincontrols">
+                    <ul class="buttons-wrapper">
+                        <li class="button minimize">
+                            <img src="./images/minimize.svg" alt="_" width="12" height="10" />
+                        </li>
+                        <li class="button maximize">
+                            <img src="./images/maximize.svg" alt="+" width="12" height="10" />
+                        </li>
+                        <li class="spacer">
+                        </li>
+                        <li class="button close">
+                            <img src="./images/close.svg" alt="x" width="12" height="10" />
+                        </li>
+                    </ul>
                 </div>
             </header>
-            <main>
+            <!--<main>
                 <div class="bandeau-gauche">
                     <div class="photo-de-profil">
                         <img src="resources/adoyen.jpg" />
@@ -46,7 +47,7 @@
             </main>
             <footer>
                 <p>Il est important de noter que ce site est en construction ;)</p>
-            </footer>
+            </footer>-->
         </div>
     </body>
 </html>
