@@ -13,8 +13,24 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://alexandredoyen29.github.io/fr/projects/</guid>
-      <description></description>
-      <content></content>
+      <description>Projets Projets menés durant mes études d&amp;rsquo;ingénieur CTF dans le cadre du cours de sécurité logicielle 🗓️ Novembre - Décembre 2022 🖥️ Binaire / Assembleur 🌍 Disponible sur mon GitHub ⚙️ Rétro-ingénierie sur des binaires compilés en mode « boîte noire ». Le but était de trouver le bon flag au sein de celui-ci afin de valider le challenge. Également, il y avait deux challenges d&amp;rsquo;exploitation de vulnérabilités (Buffer-overflows). J&amp;rsquo;ai réussi à majorer ce module !</description>
+      <content>&lt;h1 id=&#34;projets&#34;&gt;Projets&lt;/h1&gt;
+&lt;h2 id=&#34;projets-menés-durant-mes-études-dingénieur&#34;&gt;Projets menés durant mes études d&amp;rsquo;ingénieur&lt;/h2&gt;
+&lt;h3 id=&#34;ctf-dans-le-cadre-du-cours-de-sécurité-logicielle&#34;&gt;CTF dans le cadre du cours de sécurité logicielle&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;🗓️ Novembre - Décembre 2022&lt;/li&gt;
+&lt;li&gt;🖥️ Binaire / Assembleur&lt;/li&gt;
+&lt;li&gt;🌍 &lt;a href=&#34;https://github.com/alexandredoyen29/ctf-logiciels-securises-enssat&#34;&gt;Disponible sur mon GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;⚙️ Rétro-ingénierie sur des binaires compilés en mode « boîte noire ». Le but était de trouver le bon &lt;em&gt;flag&lt;/em&gt; au sein de celui-ci afin de valider le challenge. Également, il y avait deux challenges d&amp;rsquo;exploitation de vulnérabilités (&lt;em&gt;Buffer-overflows&lt;/em&gt;). J&amp;rsquo;ai réussi à majorer ce module !&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;simulateur-dorchestre-symphonique&#34;&gt;Simulateur d&amp;rsquo;orchestre symphonique&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;🗓️ Mai 2022&lt;/li&gt;
+&lt;li&gt;🖥️ C&lt;/li&gt;
+&lt;li&gt;🌍 &lt;a href=&#34;https://github.com/alexandredoyen29/orchestre-symphonique&#34;&gt;Disponible sur mon GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;⚙️ Logiciel client-serveur permettant de jouer un son, et de contrôler sa lecture à distance. Une partie est connectée à des enceintes afin de jouer le son, tandis que l&amp;rsquo;autre joue le rôle de chef d&amp;rsquo;orchestre pour contrôler la lecture de ce son. Les deux parties communiquent ensemble grâce à des sockets, et un langage spécifique a été développé afin de pouvoir scripter les opérations.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
     </item>
     
     <item>

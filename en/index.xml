@@ -13,8 +13,24 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://alexandredoyen29.github.io/en/projects/</guid>
-      <description></description>
-      <content></content>
+      <description>Projects Student projects during my engineering school degree Capture-the-flag for a software security course 🗓️ November - December 2022 🖥️ Binary / Assembler 🌍 Available on my GitHub ⚙️ Reverse-engineering on full black-box binaries to find flags to validate challenges. In addition, there were two exploit challenge where I had to find a buffer overflow, and exploit it to validate. I got the best mark of my class ! Symphony orchestra simulator 🗓️ May 2022 🖥️ C 🌍 Available on my GitHub ⚙️ Client-server software written in C to play and manage remotely sound playback.</description>
+      <content>&lt;h1 id=&#34;projects&#34;&gt;Projects&lt;/h1&gt;
+&lt;h2 id=&#34;student-projects-during-my-engineering-school-degree&#34;&gt;Student projects during my engineering school degree&lt;/h2&gt;
+&lt;h3 id=&#34;capture-the-flag-for-a-software-security-course&#34;&gt;Capture-the-flag for a software security course&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;🗓️ November - December 2022&lt;/li&gt;
+&lt;li&gt;🖥️ Binary / Assembler&lt;/li&gt;
+&lt;li&gt;🌍 &lt;a href=&#34;https://github.com/alexandredoyen29/ctf-logiciels-securises-enssat&#34;&gt;Available on my GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;⚙️ Reverse-engineering on full black-box binaries to find flags to validate challenges. In addition, there were two exploit challenge where I had to find a buffer overflow, and exploit it to validate. I got the best mark of my class !&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;symphony-orchestra-simulator&#34;&gt;Symphony orchestra simulator&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;🗓️ May 2022&lt;/li&gt;
+&lt;li&gt;🖥️ C&lt;/li&gt;
+&lt;li&gt;🌍 &lt;a href=&#34;https://github.com/alexandredoyen29/orchestre-symphonique&#34;&gt;Available on my GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;⚙️ Client-server software written in C to play and manage remotely sound playback. One side is connected to speaker to play the sound, and the other side acts as a console to manage the first side. Each sides communicate with other via sockets. A specific language has been developed to script operations.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
     </item>
     
     <item>
