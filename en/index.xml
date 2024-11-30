@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alexandre DOYEN&#39;s personal webpage</title>
+    <link>https://alexandredoyen29.github.io/en/</link>
+    <description>Recent content on Alexandre DOYEN&#39;s personal webpage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>© Alexandre DOYEN, 2024</copyright><atom:link href="https://alexandredoyen29.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://alexandredoyen29.github.io/en/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexandredoyen29.github.io/en/projects/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://alexandredoyen29.github.io/en/research_experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexandredoyen29.github.io/en/research_experience/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://alexandredoyen29.github.io/en/teachings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexandredoyen29.github.io/en/teachings/</guid>
+      <description>My teachings Algorithms and programming 📍 ENSTA Paris-Saclay, FR-91120 Palaiseau 🗓️ From October 2024 to January 2025 👨‍🏫 Lab sessions to first-year engineer students, to teach them C development and algorithmic thinking </description>
+      <content>&lt;h1 id=&#34;my-teachings&#34;&gt;My teachings&lt;/h1&gt;
+&lt;h2 id=&#34;algorithms-and-programming&#34;&gt;Algorithms and programming&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;📍 ENSTA Paris-Saclay, FR-91120 Palaiseau&lt;/li&gt;
+&lt;li&gt;🗓️ From October 2024 to January 2025&lt;/li&gt;
+&lt;li&gt;👨‍🏫 Lab sessions to first-year engineer students, to teach them C development and algorithmic thinking&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
