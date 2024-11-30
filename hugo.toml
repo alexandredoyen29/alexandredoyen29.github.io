@@ -1,4 +1,23 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://alexandredoyen29.github.io/'
+languageCode = 'fr-fr'
+title = "Page personnelle d'Alexandre DOYEN"
 theme = "terminal"
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
+[languages]
+  [languages.fr]
+    contentDir = 'content/fr'
+    disabled = false
+    languageCode = 'fr-FR'
+    languageDirection = 'ltr'
+    languageName = 'Français'
+    title = "Page personnelle d'Alexandre DOYEN"
+    weight = 1
+  [languages.en]
+    contentDir = 'content/en'
+    disabled = false
+    languageCode = 'en-US'
+    languageDirection = 'ltr'
+    languageName = 'English'
+    title = "Alexandre DOYEN's personal webpage"
+    weight = 2
