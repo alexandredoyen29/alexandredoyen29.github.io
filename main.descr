@@ -1,4 +1,4 @@
 structure :
 {
-	strings = strs/main.strdef
+	strings = "strs/main.strdef"
 }
