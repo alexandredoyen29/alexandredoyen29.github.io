@@ -1,5 +1,0 @@
-variants :
-{
-    "fr" : include "fr.strdef"
-    "en" : include "en.strdef"
-}
