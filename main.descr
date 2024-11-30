@@ -1,0 +1,4 @@
+structure :
+{
+	strings = strs/main.strdef
+}
