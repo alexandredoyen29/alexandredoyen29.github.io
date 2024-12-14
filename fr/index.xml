@@ -13,7 +13,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://alexandredoyen29.github.io/fr/projects/</guid>
-      <description>Projets Projets menés durant mes études d&amp;rsquo;ingénieur CTF dans le cadre du cours de sécurité logicielle 🗓️ Novembre - Décembre 2022 🖥️ Binaire / Assembleur 🌍 Disponible sur mon GitHub ⚙️ Rétro-ingénierie sur des binaires compilés en mode « boîte noire ». Le but était de trouver le bon flag au sein de celui-ci afin de valider le challenge. Également, il y avait deux challenges d&amp;rsquo;exploitation de vulnérabilités (Buffer-overflows). J&amp;rsquo;ai réussi à majorer ce module !</description>
+      <description>Projets Projets menés durant mes études d&amp;rsquo;ingénieur CTF dans le cadre du cours de sécurité logicielle 🗓️ Novembre - Décembre 2022 🖥️ Binaire / Assembleur 🌍 Disponible sur mon GitHub ⚙️ Rétro-ingénierie sur des binaires compilés en mode « boîte noire ». Le but était de trouver le bon flag au sein de celui-ci afin de valider le challenge. Également, il y avait deux challenges d&amp;rsquo;exploitation de vulnérabilités (Buffer-overflows). Simulateur d&amp;rsquo;orchestre symphonique 🗓️ Mai 2022 🖥️ C 🌍 Disponible sur mon GitHub ⚙️ Logiciel client-serveur permettant de jouer un son, et de contrôler sa lecture à distance.</description>
       <content>&lt;h1 id=&#34;projets&#34;&gt;Projets&lt;/h1&gt;
 &lt;h2 id=&#34;projets-menés-durant-mes-études-dingénieur&#34;&gt;Projets menés durant mes études d&amp;rsquo;ingénieur&lt;/h2&gt;
 &lt;h3 id=&#34;ctf-dans-le-cadre-du-cours-de-sécurité-logicielle&#34;&gt;CTF dans le cadre du cours de sécurité logicielle&lt;/h3&gt;
@@ -21,7 +21,7 @@
 &lt;li&gt;🗓️ Novembre - Décembre 2022&lt;/li&gt;
 &lt;li&gt;🖥️ Binaire / Assembleur&lt;/li&gt;
 &lt;li&gt;🌍 &lt;a href=&#34;https://github.com/alexandredoyen29/ctf-logiciels-securises-enssat&#34;&gt;Disponible sur mon GitHub&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;⚙️ Rétro-ingénierie sur des binaires compilés en mode « boîte noire ». Le but était de trouver le bon &lt;em&gt;flag&lt;/em&gt; au sein de celui-ci afin de valider le challenge. Également, il y avait deux challenges d&amp;rsquo;exploitation de vulnérabilités (&lt;em&gt;Buffer-overflows&lt;/em&gt;). J&amp;rsquo;ai réussi à majorer ce module !&lt;/li&gt;
+&lt;li&gt;⚙️ Rétro-ingénierie sur des binaires compilés en mode « boîte noire ». Le but était de trouver le bon &lt;em&gt;flag&lt;/em&gt; au sein de celui-ci afin de valider le challenge. Également, il y avait deux challenges d&amp;rsquo;exploitation de vulnérabilités (&lt;em&gt;Buffer-overflows&lt;/em&gt;).&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;simulateur-dorchestre-symphonique&#34;&gt;Simulateur d&amp;rsquo;orchestre symphonique&lt;/h3&gt;
 &lt;ul&gt;
@@ -39,8 +39,37 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://alexandredoyen29.github.io/fr/research_experience/</guid>
-      <description></description>
-      <content></content>
+      <description>Expérience de recherche Publications Durant ma thèse Participation à l&amp;rsquo;école d&amp;rsquo;été TAROT 🗓️ Juillet 2024 🗺️ Bergame (Italie) 👨‍🏫 Cours sur le test logiciel Sub-reviewer pour SOAP&amp;rsquo; 2024 🗓️ Mars 2024 📚 ACM SIGPLAN International Workshop on the State Of the Art in Program Analysis Participation à l&amp;rsquo;école d&amp;rsquo;hiver du PEPR Cybersécurité 🗓️ Février 2024 🗺️ Autrans (France, près de Grenoble (38 — Isère)) 👨‍🏫 Présentation de la recherche sur la Cybersécurité en France Durant mon cursus ingénieur Stage de recherche à Zürich (Suisse) 🗓️ Mai - Août 2022 (3 mois) 🖥️ Détection des traceurs Bluetooth Low Energy (Ex : Apple AirTags) 📖 Rapport (En anglais) ✅ Attestation d&amp;rsquo;évaluation du travail accompli (En anglais) ⚙️ Les traceurs Bluetooth sont des petits objets autonomes permettant de localiser à tout instant un objet quelconque (Porte-feuilles, etc.</description>
+      <content>&lt;h1 id=&#34;expérience-de-recherche&#34;&gt;Expérience de recherche&lt;/h1&gt;
+&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
+&lt;h2 id=&#34;durant-ma-thèse&#34;&gt;Durant ma thèse&lt;/h2&gt;
+&lt;h3 id=&#34;participation-à-lécole-dété-tarot&#34;&gt;Participation à l&amp;rsquo;école d&amp;rsquo;été TAROT&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;🗓️ Juillet 2024&lt;/li&gt;
+&lt;li&gt;🗺️ Bergame (Italie)&lt;/li&gt;
+&lt;li&gt;👨‍🏫 Cours sur le test logiciel&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;sub-reviewer-pour-soap-2024&#34;&gt;Sub-reviewer pour SOAP&amp;rsquo; 2024&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;🗓️ Mars 2024&lt;/li&gt;
+&lt;li&gt;📚 ACM SIGPLAN International Workshop on the State Of the Art in Program Analysis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;participation-à-lécole-dhiver-du-pepr-cybersécurité&#34;&gt;Participation à l&amp;rsquo;école d&amp;rsquo;hiver du PEPR Cybersécurité&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;🗓️ Février 2024&lt;/li&gt;
+&lt;li&gt;🗺️ Autrans (France, près de Grenoble (38 — Isère))&lt;/li&gt;
+&lt;li&gt;👨‍🏫 Présentation de la recherche sur la Cybersécurité en France&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;durant-mon-cursus-ingénieur&#34;&gt;Durant mon cursus ingénieur&lt;/h2&gt;
+&lt;h3 id=&#34;stage-de-recherche-à-zürich-suisse&#34;&gt;Stage de recherche à Zürich (Suisse)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;🗓️ Mai - Août 2022 (3 mois)&lt;/li&gt;
+&lt;li&gt;🖥️ Détection des traceurs Bluetooth Low Energy (Ex : Apple AirTags)&lt;/li&gt;
+&lt;li&gt;📖 &lt;a href=&#34;https://alexandredoyen29.github.io/pdf/Report%20internship%20Zuerich.pdf&#34;&gt;Rapport&lt;/a&gt; (En anglais)&lt;/li&gt;
+&lt;li&gt;✅ &lt;a href=&#34;https://alexandredoyen29.github.io/pdf/Attestation-A-Doyen-Internship.pdf&#34;&gt;Attestation d&amp;rsquo;évaluation du travail accompli&lt;/a&gt; (En anglais)&lt;/li&gt;
+&lt;li&gt;⚙️ Les traceurs Bluetooth sont des petits objets autonomes permettant de localiser à tout instant un objet quelconque (Porte-feuilles, etc.). Bien qu&amp;rsquo;ils soient en priorité prévus pour cet usage-là, des utilisateurs malveillants pourraient les utiliser pour suivre à l&amp;rsquo;insu de quelqu&amp;rsquo;un ses mouvements. Le but de ce stage, s&amp;rsquo;inscrivant dans la thèse de Katharina O.E. MÜLLER, était de développer une technique permettant de détecter ces objets-ci aux alentours d&amp;rsquo;une personne.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
     </item>
     
     <item>
