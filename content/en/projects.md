@@ -7,7 +7,7 @@
 - 🗓️ November - December 2022
 - 🖥️ Binary / Assembler
 - 🌍 [Available on my GitHub](https://github.com/alexandredoyen29/ctf-logiciels-securises-enssat)
-- ⚙️ Reverse-engineering on full black-box binaries to find flags to validate challenges. In addition, there were two exploit challenge where I had to find a buffer overflow, and exploit it to validate. I got the best mark of my class !
+- ⚙️ Reverse-engineering on full black-box binaries to find flags to validate challenges. In addition, there were two exploit challenge where I had to find a buffer overflow, and exploit it to validate the challenge.
 
 ### Symphony orchestra simulator
 

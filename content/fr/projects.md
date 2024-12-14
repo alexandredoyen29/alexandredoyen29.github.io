@@ -7,7 +7,7 @@
 - 🗓️ Novembre - Décembre 2022
 - 🖥️ Binaire / Assembleur
 - 🌍 [Disponible sur mon GitHub](https://github.com/alexandredoyen29/ctf-logiciels-securises-enssat)
-- ⚙️ Rétro-ingénierie sur des binaires compilés en mode « boîte noire ». Le but était de trouver le bon *flag* au sein de celui-ci afin de valider le challenge. Également, il y avait deux challenges d'exploitation de vulnérabilités (*Buffer-overflows*). J'ai réussi à majorer ce module !
+- ⚙️ Rétro-ingénierie sur des binaires compilés en mode « boîte noire ». Le but était de trouver le bon *flag* au sein de celui-ci afin de valider le challenge. Également, il y avait deux challenges d'exploitation de vulnérabilités (*Buffer-overflows*).
 
 ### Simulateur d'orchestre symphonique
 
