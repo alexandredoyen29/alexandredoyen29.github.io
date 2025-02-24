@@ -13,7 +13,22 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://alexandredoyen29.github.io/en/projects/</guid>
-      <description>Projects Student projects during my engineering school degree Capture-the-flag for a software security course 🗓️ November - December 2022 🖥️ Binary / Assembler 🌍 Available on my GitHub ⚙️ Reverse-engineering on full black-box binaries to find flags to validate challenges. In addition, there were two exploit challenge where I had to find a buffer overflow, and exploit it to validate the challenge. Symphony orchestra simulator 🗓️ May 2022 🖥️ C 🌍 Available on my GitHub ⚙️ Client-server software written in C to play and manage remotely sound playback.</description>
+      <description>&lt;h1 id=&#34;projects&#34;&gt;Projects&lt;/h1&gt;
+&lt;h2 id=&#34;student-projects-during-my-engineering-school-degree&#34;&gt;Student projects during my engineering school degree&lt;/h2&gt;
+&lt;h3 id=&#34;capture-the-flag-for-a-software-security-course&#34;&gt;Capture-the-flag for a software security course&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;🗓️ November - December 2022&lt;/li&gt;
+&lt;li&gt;🖥️ Binary / Assembler&lt;/li&gt;
+&lt;li&gt;🌍 &lt;a href=&#34;https://github.com/alexandredoyen29/ctf-logiciels-securises-enssat&#34;&gt;Available on my GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;⚙️ Reverse-engineering on full black-box binaries to find flags to validate challenges. In addition, there were two exploit challenge where I had to find a buffer overflow, and exploit it to validate the challenge.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;symphony-orchestra-simulator&#34;&gt;Symphony orchestra simulator&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;🗓️ May 2022&lt;/li&gt;
+&lt;li&gt;🖥️ C&lt;/li&gt;
+&lt;li&gt;🌍 &lt;a href=&#34;https://github.com/alexandredoyen29/orchestre-symphonique&#34;&gt;Available on my GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;⚙️ Client-server software written in C to play and manage remotely sound playback. One side is connected to speaker to play the sound, and the other side acts as a console to manage the first side. Each sides communicate with other via sockets. A specific language has been developed to script operations.&lt;/li&gt;
+&lt;/ul&gt;</description>
       <content>&lt;h1 id=&#34;projects&#34;&gt;Projects&lt;/h1&gt;
 &lt;h2 id=&#34;student-projects-during-my-engineering-school-degree&#34;&gt;Student projects during my engineering school degree&lt;/h2&gt;
 &lt;h3 id=&#34;capture-the-flag-for-a-software-security-course&#34;&gt;Capture-the-flag for a software security course&lt;/h3&gt;
@@ -39,7 +54,35 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://alexandredoyen29.github.io/en/research_experience/</guid>
-      <description>Research experience Publications During my PhD Attending at TAROT Summer School 🗓️ July 2024 🗺️ Bergamo (Italy) 👨‍🏫 Talks about software testing techniques Sub-reviewer for SOAP&#39;24 🗓️ March 2024 📚 ACM SIGPLAN International Workshop on the State Of the Art in Program Analysis Attending at &amp;ldquo;PEPR Cybersécurité winter school&amp;rdquo; 🗓️ February 2024 🗺️ Autrans (France, near Grenoble) 👨‍🏫 Talks about cybersecurity research in France During my engineering school degree Research internship at Zürich (Switzerland) 🗓️ May - August 2022 (3 months) 🖥️ Detection of Bluetooth Low Energy trackers (Ex : Apple AirTags) 📖 Report (In English) ✅ Assessment form (In English) ⚙️ Bluetooth trackers are small, stand-alone devices that can locate any objects (Wallets etc.</description>
+      <description>&lt;h1 id=&#34;research-experience&#34;&gt;Research experience&lt;/h1&gt;
+&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
+&lt;h2 id=&#34;during-my-phd&#34;&gt;During my PhD&lt;/h2&gt;
+&lt;h3 id=&#34;attending-at-tarot-summer-school&#34;&gt;Attending at TAROT Summer School&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;🗓️ July 2024&lt;/li&gt;
+&lt;li&gt;🗺️ Bergamo (Italy)&lt;/li&gt;
+&lt;li&gt;👨‍🏫 Talks about software testing techniques&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;sub-reviewer-for-soap24&#34;&gt;Sub-reviewer for SOAP&#39;24&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;🗓️ March 2024&lt;/li&gt;
+&lt;li&gt;📚 ACM SIGPLAN International Workshop on the State Of the Art in Program Analysis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;attending-at-pepr-cybersécurité-winter-school&#34;&gt;Attending at &amp;ldquo;PEPR Cybersécurité winter school&amp;rdquo;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;🗓️ February 2024&lt;/li&gt;
+&lt;li&gt;🗺️ Autrans (France, near Grenoble)&lt;/li&gt;
+&lt;li&gt;👨‍🏫 Talks about cybersecurity research in France&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;during-my-engineering-school-degree&#34;&gt;During my engineering school degree&lt;/h2&gt;
+&lt;h3 id=&#34;research-internship-at-zürich-switzerland&#34;&gt;Research internship at Zürich (Switzerland)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;🗓️ May - August 2022 (3 months)&lt;/li&gt;
+&lt;li&gt;🖥️ Detection of Bluetooth Low Energy trackers (Ex : Apple AirTags)&lt;/li&gt;
+&lt;li&gt;📖 &lt;a href=&#34;https://alexandredoyen29.github.io/pdf/Report%20internship%20Zuerich.pdf&#34;&gt;Report&lt;/a&gt; (In English)&lt;/li&gt;
+&lt;li&gt;✅ &lt;a href=&#34;https://alexandredoyen29.github.io/pdf/Attestation-A-Doyen-Internship.pdf&#34;&gt;Assessment form&lt;/a&gt; (In English)&lt;/li&gt;
+&lt;li&gt;⚙️ Bluetooth trackers are small, stand-alone devices that can locate any objects (Wallets etc.) at any time. Even though they are designed for that, malicious users can turn away them to spy people. The goal of this internship was developing a technique to detect those objects around a person. This internship was in line with the PhD of Katharina O.E. MÜLLER.&lt;/li&gt;
+&lt;/ul&gt;</description>
       <content>&lt;h1 id=&#34;research-experience&#34;&gt;Research experience&lt;/h1&gt;
 &lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
 &lt;h2 id=&#34;during-my-phd&#34;&gt;During my PhD&lt;/h2&gt;
@@ -78,8 +121,28 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://alexandredoyen29.github.io/en/teachings/</guid>
-      <description>My teachings Algorithms and programming 📍 ENSTA Paris-Saclay, FR-91120 Palaiseau 🗓️ From October 2024 to January 2025 👨‍🏫 Lab sessions to first-year engineer students, to teach them C development and algorithmic thinking </description>
+      <description>&lt;h1 id=&#34;my-teachings&#34;&gt;My teachings&lt;/h1&gt;
+&lt;h2 id=&#34;solving-algorithms-problems&#34;&gt;Solving algorithms problems&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;📍 ENSTA Paris-Saclay, FR-91120 Palaiseau&lt;/li&gt;
+&lt;li&gt;🗓️ From February to April 2025&lt;/li&gt;
+&lt;li&gt;👨‍🏫 Lab sessions to first-year engineer students, to teach them how to write Makefiles, and how to use typical data structures in C (Lists, trees, stacks, queues, sets and graphs)&lt;/li&gt;
+&lt;li&gt;🌍 &lt;a href=&#34;https://perso.ensta-paris.fr/~chapoutot/teaching/in103/&#34;&gt;Link to the course (In french)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;algorithms-and-programming&#34;&gt;Algorithms and programming&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;📍 ENSTA Paris-Saclay, FR-91120 Palaiseau&lt;/li&gt;
+&lt;li&gt;🗓️ From October 2024 to January 2025&lt;/li&gt;
+&lt;li&gt;👨‍🏫 Lab sessions to first-year engineer students, to teach them C development and algorithmic thinking&lt;/li&gt;
+&lt;/ul&gt;</description>
       <content>&lt;h1 id=&#34;my-teachings&#34;&gt;My teachings&lt;/h1&gt;
+&lt;h2 id=&#34;solving-algorithms-problems&#34;&gt;Solving algorithms problems&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;📍 ENSTA Paris-Saclay, FR-91120 Palaiseau&lt;/li&gt;
+&lt;li&gt;🗓️ From February to April 2025&lt;/li&gt;
+&lt;li&gt;👨‍🏫 Lab sessions to first-year engineer students, to teach them how to write Makefiles, and how to use typical data structures in C (Lists, trees, stacks, queues, sets and graphs)&lt;/li&gt;
+&lt;li&gt;🌍 &lt;a href=&#34;https://perso.ensta-paris.fr/~chapoutot/teaching/in103/&#34;&gt;Link to the course (In french)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;algorithms-and-programming&#34;&gt;Algorithms and programming&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;📍 ENSTA Paris-Saclay, FR-91120 Palaiseau&lt;/li&gt;
