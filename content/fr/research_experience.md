@@ -4,6 +4,11 @@
 
 ## Durant ma thèse
 
+### Evaluation d'artéfacts pour ECOOP'25
+
+- 🗓️ Mai 2025
+- 📚 European Conference on Object-Oriented Programming
+
 ### Participation à l'école d'été TAROT
 
 - 🗓️ Juillet 2024

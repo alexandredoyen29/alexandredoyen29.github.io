@@ -4,6 +4,11 @@
 
 ## During my PhD
 
+### ECOOP'25 Artifact evaluation
+
+- 🗓️ May 2025
+- 📚 European Conference on Object-Oriented Programming
+
 ### Attending at TAROT Summer School
 
 - 🗓️ July 2024
