@@ -1,8 +1,13 @@
 # Research experience
 
-## Publications
-
 ## During my PhD
+
+### Talk at RESSI'26 with a poster
+
+- 🗓️ May 2026
+- 📚 Rendez-vous de la Recherche et de l'Enseignement de la Sécurité des Systèmes d'Information
+- 🗺️ Clervaux (Luxembourg)
+- 👨‍🏫 Talk about my research under review
 
 ### ECOOP'25 Artifact evaluation
 

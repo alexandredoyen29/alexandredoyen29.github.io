@@ -8,7 +8,7 @@ Mes contacts :
 
 Je suis Alexandre DOYEN, doctorant au sein de l'équipe [Binsec](https://binsec.github.io/) depuis fin 2023. Je travaille sur la détection de backdoors dans des implémentations de protocoles réseaux grâce à des techniques de fuzzing. Je suis dirigé par [Michaël MARCOZZI](https://sites.google.com/view/michaelmarcozzi) et [Jean-Yves MARION](https://members.loria.fr/JYMarion/cv/).
 
-Mes langages de prédilection sont le C, le C++, et depuis peu, OCaml. Je suis très intéressé par la recherche autour de la cybersécurité et des systèmes informatiques.
+Mes langages de prédilection sont le C, le C++, et depuis peu, OCaml et Rust. Je suis très intéressé par la recherche autour de la cybersécurité et des systèmes informatiques. Actuellement en fin de thèse, je suis à la recherche d'un poste autour de la cybersécurité en Île-de-France [(lien vers mon CV)](/pdf/cv_french.pdf).
 
 Sur ce site, vous trouverez :
 - [Mes experiences de recherche](/fr/research_experience)
