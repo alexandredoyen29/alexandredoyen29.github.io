@@ -8,7 +8,6 @@
 - 📚 Rendez-vous de la Recherche et de l'Enseignement de la Sécurité des Systèmes d'Information
 - 🗺️ Clervaux (Luxembourg)
 - 👨‍🏫 Présentation de mes travaux de recherche en cours de révision
-- 📑 [Papier court (En anglais)](/pdf/tulip_short_paper.pdf)
 
 ### Evaluation d'artéfacts pour ECOOP'25
 
